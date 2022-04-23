@@ -1,4 +1,5 @@
 # Latent Diffusion Models inpainting
+Available via a [notebook](Latent_Diffusion_LAION_400M_model_text_to_image_inpainting.ipynb) [![][colab]][colab-cin].
 [colab]: <https://colab.research.google.com/assets/colab-badge.svg>
 [colab-cin]: <https://colab.research.google.com/github/loboere/latent-diffusion-inpainting-colab/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image_inpainting.ipynb>
 
