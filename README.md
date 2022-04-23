@@ -1,5 +1,10 @@
 # Latent Diffusion Models inpainting
+[colab]: <https://colab.research.google.com/assets/colab-badge.svg>
+[colab-cin]: <https://colab.research.google.com/github/CompVis/latent-diffusion/blob/main/scripts/latent_diffusion_inpainting.ipynb>
 <img src=assets/ej1.png />
+
+
+
 
 # Latent Diffusion Models
 [arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex)
