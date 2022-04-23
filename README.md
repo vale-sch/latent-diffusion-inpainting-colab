@@ -1,6 +1,8 @@
 # Latent Diffusion Models inpainting
 [colab]: <https://colab.research.google.com/assets/colab-badge.svg>
-[colab-cin]: <https://colab.research.google.com/github/CompVis/latent-diffusion/blob/main/scripts/latent_diffusion_inpainting.ipynb>
+[colab-cin]: <https://colab.research.google.com/github/loboere/latent-diffusion-inpainting-colab/blob/main/Latent_Diffusion_LAION_400M_model_text_to_image_inpainting.ipynb>
+
+<img src=assets/ej1.png />
 <img src=assets/ej2.png />
 <img src=assets/ej3.png />
 <img src=assets/ej4.png />
