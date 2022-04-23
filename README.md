@@ -1,3 +1,6 @@
+# Latent Diffusion Models inpainting
+<img src=assets/ej1.png />
+
 # Latent Diffusion Models
 [arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex)
 
